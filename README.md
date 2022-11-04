@@ -2,5 +2,5 @@
 
 ● To develop an AR-based mobile application by analyzing the requirements found
 in the study. <br>
-● To provide the patients a better understanding of their heart diseases.
+● To provide the patients a better understanding of their heart diseases. <br>
 ● To show a cross-sectional animated view for easier understanding.
